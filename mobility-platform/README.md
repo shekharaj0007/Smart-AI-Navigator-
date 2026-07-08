@@ -1,6 +1,55 @@
 # AI Mobility Intelligence Platform
 
 End-to-end mobility analytics platform built on the **Microsoft Geolife GPS dataset**.
+# 📸 Application Screenshots
+
+## 🤖 AI Mobility Assistant
+
+![AI Mobility Assistant](assets/AI%20Mobility%20Assistant.png)
+
+---
+
+## 📊 Dashboard
+
+![Dashboard](assets/DASHBOARD.png)
+
+---
+
+## 📍 Live Tracker
+
+![Live Tracker](assets/LIVE%20TRACKER.png)
+
+---
+
+## 💾 Location Saving in Database
+
+![Location Saving](assets/Location%20saving%20in%20Database.png)
+
+---
+
+## 🗺️ Map Explorer
+
+![Map Explorer](assets/Map%20Explorer.png)
+
+---
+
+## 🚗 Mobility Live Track
+
+![Mobility Live Track](assets/Mobility%20Live%20Track.png)
+
+---
+
+## 📈 Origin Destination Matrix
+
+![Origin Destination Matrix](assets/Origin%20Destination%20Matrix.png)
+
+---
+
+## 🚦 Traffic Analytics
+
+![Traffic Analytics](assets/Traffic%20analytics.png)
+
+---
 
 ## Features
 
