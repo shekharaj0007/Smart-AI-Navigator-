@@ -13,7 +13,7 @@ End-to-end mobility analytics platform built on the **Microsoft Geolife GPS data
 
 ![Mobility Live Track](ASSETS/Mobility%20Live%20Track.png)
 
-![Origin Destination Matrix](ASSETS/Origin%20Destination%20Matrix.png)
+![Origin Destination Matrix](ASSETS/Origin%20Destination%20Mtarix.png)
 
 ![Traffic Analytics](ASSETS/Traffic%20analytics.png)
 
